@@ -1,1 +1,5 @@
 hello world
+<<<<<<< 67ad6c60cfcd09e0b5216c1ce2f1d93e26ddbcd2
+=======
+new line
+>>>>>>> test
